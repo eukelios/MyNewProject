@@ -1,6 +1,5 @@
 //
 //  MyNewProjectApp.swift
-//  MyNewProject
 //
 //  Created by Sven Nueesch on 23.04.2021.
 //
